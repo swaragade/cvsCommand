@@ -1,2 +1,2 @@
-# cvsCommand
+# cvsCommandExecutor
 CVS repository manipulation
